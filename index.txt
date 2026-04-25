@@ -1,4 +1,5 @@
-Primera línea modificada desde LOCAL, otra vez
+Línea conflicto LOCAL
+Línea conflicto GitHub
 Segunda línea añadida
 Tercera línea nueva
 Cuarta línea añadida desde GitHub para probar pull
